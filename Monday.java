@@ -31,7 +31,7 @@ class Monday extends Weekday {
     }
 }
 
-public class Main {
+public class Monday {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
